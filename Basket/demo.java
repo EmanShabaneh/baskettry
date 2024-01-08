@@ -7,5 +7,6 @@ public class demo {
         b.add(5.6);
         System.out.println(b.toString());
         b.add(8.0);
+        System.out.println(b.toString()); 
     }
 }
